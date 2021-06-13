@@ -1,0 +1,226 @@
+1IP727010-AA                                           MASTERCARD WORLDWIDE                                       RUN DATE: 05/26/18 
+                                                CLEARING CYCLE 004 - ACKNOWLEDGEMENT                              PAGE NO:         1 
+                                                              2018-05-26                                                             
+ MEMBER ID: 00000016987                                                                                                              
+                                                         NO DATA TO REPORT                                                           
+1IP727020-AA                                           MASTERCARD WORLDWIDE                                       RUN DATE: 05/26/18 
+ ACCEPTANCE BRAND: MCC                          CLEARING CYCLE 004 - NOTIFICATION                                 PAGE NO:         1 
+ BUSINESS SERVICE LEVEL: INTERREGIONAL                        2018-05-26                                                             
+ BUSINESS SERVICE ID: 010401                                                                                                         
+ FILE ID: 001/180526/00000016987/04401                                                                                               
+ MEMBER ID: 00000016987                                                                                                              
+                                                                                                                                     
+ MASTERCARD SETTLED                                                     RECON                         FEE                            
+                                                                         CURR                         CURR                           
+ TRANS. FUNC. PROC.CODE       IRD   COUNTS               RECON AMOUNT    CODE       TRANS FEE         CODE                           
+ ------------ --------------- --- -------- -------------------------- ------- ----------------------- -------                        
+ FIRST PRES.  PURCHASE   ORIG 73         2                  300.57 DR 840-USD                 3.35 CR 840-USD                        
+              PURCHASE   ORIG 75         2                  227.30 DR 840-USD                 3.70 CR 840-USD                        
+              PURCHASE   ORIG 83         2                  147.82 DR 840-USD                 1.64 CR 840-USD                        
+ ------------ --------------- --- -------- -------------------------- ------- ----------------------- -------                        
+ FIRST PRES.  TOTAL                      6                  675.69 DR 840-USD                 8.69 CR 840-USD                        
+                                                                                                                                     
+ INTERREGIONAL                                                                                                                       
+ MASTERCARD SETTLED                                                                                                                  
+ BUSINESS SERVICE ID SUBTOTAL            6                  675.69 DR 840-USD                 8.69 CR 840-USD                        
+1IP727020-AA                                           MASTERCARD WORLDWIDE                                       RUN DATE: 05/26/18 
+ ACCEPTANCE BRAND: MCC                          CLEARING CYCLE 004 - NOTIFICATION                                 PAGE NO:         1 
+ BUSINESS SERVICE LEVEL: INTERREGIONAL                        2018-05-26                                                             
+ BUSINESS SERVICE ID: 020401                                                                                                         
+ FILE ID: 001/180526/00000016987/04401                                                                                               
+ MEMBER ID: 00000016987                                                                                                              
+                                                                                                                                     
+ MASTERCARD SETTLED                                                     RECON                         FEE                            
+                                                                         CURR                         CURR                           
+ TRANS. FUNC. PROC.CODE       IRD   COUNTS               RECON AMOUNT    CODE       TRANS FEE         CODE                           
+ ------------ --------------- --- -------- -------------------------- ------- ----------------------- -------                        
+ FIRST PRES.  PURCHASE   ORIG 75         1                  178.76 DR 840-USD                 2.91 CR 840-USD                        
+ ------------ --------------- --- -------- -------------------------- ------- ----------------------- -------                        
+ FIRST PRES.  TOTAL                      1                  178.76 DR 840-USD                 2.91 CR 840-USD                        
+                                                                                                                                     
+ INTERREGIONAL                                                                                                                       
+ MASTERCARD SETTLED                                                                                                                  
+ BUSINESS SERVICE ID SUBTOTAL            1                  178.76 DR 840-USD                 2.91 CR 840-USD                        
+1IP727020-AA                                           MASTERCARD WORLDWIDE                                       RUN DATE: 05/26/18 
+ ACCEPTANCE BRAND: MCC                          CLEARING CYCLE 004 - NOTIFICATION                                 PAGE NO:         1 
+ BUSINESS SERVICE LEVEL: INTERREGIONAL                        2018-05-26                                                             
+ BUSINESS SERVICE ID: 050401                                                                                                         
+ FILE ID: 001/180526/00000016987/04401                                                                                               
+ MEMBER ID: 00000016987                                                                                                              
+                                                                                                                                     
+ MASTERCARD SETTLED                                                     RECON                         FEE                            
+                                                                         CURR                         CURR                           
+ TRANS. FUNC. PROC.CODE       IRD   COUNTS               RECON AMOUNT    CODE       TRANS FEE         CODE                           
+ ------------ --------------- --- -------- -------------------------- ------- ----------------------- -------                        
+ FIRST PRES.  PURCHASE   ORIG 75         1                   34.19 DR 840-USD                 0.56 CR 840-USD                        
+ ------------ --------------- --- -------- -------------------------- ------- ----------------------- -------                        
+ FIRST PRES.  TOTAL                      1                   34.19 DR 840-USD                 0.56 CR 840-USD                        
+                                                                                                                                     
+ INTERREGIONAL                                                                                                                       
+ MASTERCARD SETTLED                                                                                                                  
+ BUSINESS SERVICE ID SUBTOTAL            1                   34.19 DR 840-USD                 0.56 CR 840-USD                        
+1IP727020-AA                                           MASTERCARD WORLDWIDE                                       RUN DATE: 05/26/18 
+ ACCEPTANCE BRAND: MCC                          CLEARING CYCLE 004 - NOTIFICATION                                 PAGE NO:         1 
+ BUSINESS SERVICE LEVEL: INTERREGIONAL                        2018-05-26                                                             
+ BUSINESS SERVICE ID: 060401                                                                                                         
+ FILE ID: 001/180526/00000016987/04401                                                                                               
+ MEMBER ID: 00000016987                                                                                                              
+                                                                                                                                     
+ MASTERCARD SETTLED                                                     RECON                         FEE                            
+                                                                         CURR                         CURR                           
+ TRANS. FUNC. PROC.CODE       IRD   COUNTS               RECON AMOUNT    CODE       TRANS FEE         CODE                           
+ ------------ --------------- --- -------- -------------------------- ------- ----------------------- -------                        
+ FIRST PRES.  PURCHASE   ORIG 73         1                   17.67 DR 840-USD                 0.20 CR 840-USD                        
+ ------------ --------------- --- -------- -------------------------- ------- ----------------------- -------                        
+ FIRST PRES.  TOTAL                      1                   17.67 DR 840-USD                 0.20 CR 840-USD                        
+                                                                                                                                     
+ INTERREGIONAL                                                                                                                       
+ MASTERCARD SETTLED                                                                                                                  
+ BUSINESS SERVICE ID SUBTOTAL            1                   17.67 DR 840-USD                 0.20 CR 840-USD                        
+1IP727020-AA                                           MASTERCARD WORLDWIDE                                       RUN DATE: 05/26/18 
+ ACCEPTANCE BRAND: MCC                          CLEARING CYCLE 004 - NOTIFICATION                                 PAGE NO:         1 
+ BUSINESS SERVICE LEVEL: INTRACOUNTRY                         2018-05-26                                                             
+ BUSINESS SERVICE ID: 356001                                                                                                         
+ FILE ID: 001/180526/00000016987/04401                                                                                               
+ MEMBER ID: 00000016987                                                                                                              
+                                                                                                                                     
+ MASTERCARD SETTLED                                                     RECON                         FEE                            
+                                                                         CURR                         CURR                           
+ TRANS. FUNC. PROC.CODE       IRD   COUNTS               RECON AMOUNT    CODE       TRANS FEE         CODE                           
+ ------------ --------------- --- -------- -------------------------- ------- ----------------------- -------                        
+ FIRST PRES.  PURCHASE   ORIG 73         1                4,248.74 DR 356-INR                47.26 CR 356-INR                        
+              PURCHASE   ORIG 75       120              383,071.98 DR 356-INR             5,174.63 CR 356-INR                        
+              CREDIT     ORIG 75         4                5,817.41 CR 356-INR                94.59 DR 356-INR                        
+ ------------ --------------- --- -------- -------------------------- ------- ----------------------- -------                        
+ FIRST PRES.  TOTAL                    125              381,503.31 DR 356-INR             5,127.30 CR 356-INR                        
+                                                                                                                                     
+ INTRACOUNTRY                                                                                                                        
+ MASTERCARD SETTLED                                                                                                                  
+ BUSINESS SERVICE ID SUBTOTAL          125              381,503.31 DR 356-INR             5,127.30 CR 356-INR                        
+1IP727020-AA                                           MASTERCARD WORLDWIDE                                       RUN DATE: 05/26/18 
+                                                CLEARING CYCLE 004 - NOTIFICATION                                 PAGE NO:         1 
+                                                              2018-05-26                                                             
+                                                                                                                                     
+ ACCEPTANCE BRAND : MCC                                                                                                              
+ BUSINESS SERVICE LEVEL :INTERREGIONAL                                                                                               
+ MEMBER ID: 00000016987                                                                                                              
+ CURRENCY CODE : 840-USD                                                                                                             
+                                                                                                                                     
+ BUSINESS                                                                                                                            
+ SERVICE                               ORIG/                                                                                         
+     ID            FILE ID             RVSL          RECON. AMOUNT                   TRANSACTION FEE                                 
+ -------- ---------------------------- ----        -------------------              -------------------                              
+ 010401   001/180526/00000016987/04401 ORIG                   675.69 DR                         8.69 CR                              
+ 020401   001/180526/00000016987/04401 ORIG                   178.76 DR                         2.91 CR                              
+ 050401   001/180526/00000016987/04401 ORIG                    34.19 DR                         0.56 CR                              
+ 060401   001/180526/00000016987/04401 ORIG                    17.67 DR                         0.20 CR                              
+                                                                                                                                     
+                             GRAND TOTAL                      906.31 DR                        12.36 CR                              
+                                                                                                                                     
+ ACCEPTANCE BRAND : MCC                                                                                                              
+ BUSINESS SERVICE LEVEL :INTRACOUNTRY                                                                                                
+ MEMBER ID: 00000016987                                                                                                              
+ CURRENCY CODE : 356-INR                                                                                                             
+                                                                                                                                     
+ BUSINESS                                                                                                                            
+ SERVICE                               ORIG/                                                                                         
+     ID            FILE ID             RVSL          RECON. AMOUNT                   TRANSACTION FEE                                 
+ -------- ---------------------------- ----        -------------------              -------------------                              
+ 356001   001/180526/00000016987/04401 ORIG               381,503.31 DR                     5,127.30 CR                              
+                                                                                                                                     
+                             GRAND TOTAL                  381,503.31 DR                     5,127.30 CR                              
+                                                                                                                                     
+1IP728010-AA                                           MASTERCARD WORLDWIDE                                       RUN DATE: 05/26/18 
+ ACCEPTANCE BRAND: MCC                                    CLEARING CYCLE 004                                      RUN TIME: 03.10.05 
+ BUSINESS SERVICE LEVEL: INTERREGIONAL                        2018-05-26                                          PAGE NO:         1 
+ MEMBER ID: 00000016987                                                                                                              
+ CURRENCY CODE :  840 - USD                                                                                                          
+                                                                                                                                     
+ BUSINESS                                                                                           RECON.                           
+ SERVICE               FILE ID                       FILE ID                      NET RECON          CURR.                           
+    ID              TO MASTERCARD                FROM MASTERCARD                CURRENCY AMOUNT      CODE                            
+ ________   ____________________________   ____________________________   _______________________   _______                          
+  010401                                   001/180526/00000016987/04401                 675.69 DR   840-USD                          
+  020401                                   001/180526/00000016987/04401                 178.76 DR   840-USD                          
+  050401                                   001/180526/00000016987/04401                  34.19 DR   840-USD                          
+  060401                                   001/180526/00000016987/04401                  17.67 DR   840-USD                          
+                                                                                                                                     
+  TOTAL                                                                                 906.31 DR   840-USD                          
+                                                                                                                                     
+1IP728010-AA                                           MASTERCARD WORLDWIDE                                       RUN DATE: 05/26/18 
+ ACCEPTANCE BRAND: MCC                                    CLEARING CYCLE 004                                      RUN TIME: 03.10.05 
+ BUSINESS SERVICE LEVEL: INTRACOUNTRY                         2018-05-26                                          PAGE NO:         2 
+ MEMBER ID: 00000016987                                                                                                              
+ CURRENCY CODE :  356 - INR                                                                                                          
+                                                                                                                                     
+ BUSINESS                                                                                           RECON.                           
+ SERVICE               FILE ID                       FILE ID                      NET RECON          CURR.                           
+    ID              TO MASTERCARD                FROM MASTERCARD                CURRENCY AMOUNT      CODE                            
+ ________   ____________________________   ____________________________   _______________________   _______                          
+  356001                                   001/180526/00000016987/04401             381,503.31 DR   356-INR                          
+                                                                                                                                     
+  TOTAL                                                                             381,503.31 DR   356-INR                          
+                                                                                                                                     
+1IP728010-AA                                           MASTERCARD WORLDWIDE                                       RUN DATE: 05/26/18 
+ ACCEPTANCE BRAND: MCC                                    CLEARING CYCLE 004 SUMMARY                              RUN TIME: 03.10.05 
+ BUSINESS SERVICE LEVEL: INTERREGIONAL                        2018-05-26                                          PAGE NO:         3 
+ MEMBER ID: 00000016987                                                                                                              
+ CURRENCY CODE :  840 - USD                                                                                                          
+                                                                                                                                     
+                                                                                                    RECON.                           
+  CYCLE                FILE ID                       FILE ID                      NET RECON          CURR.                           
+ ACTIVITY           TO MASTERCARD                FROM MASTERCARD                CURRENCY AMOUNT      CODE                            
+ ________   ____________________________   ____________________________   _______________________   _______                          
+  CYCLE 01                                 001/180526/00000016987/01101               1,008.47 DR   840-USD                          
+  CYCLE 02                                 001/180526/00000016987/02201               1,138.21 DR   840-USD                          
+  CYCLE 03                                 001/180526/00000016987/03401               1,147.07 DR   840-USD                          
+  CYCLE 04                                 001/180526/00000016987/04401                 906.31 DR   840-USD                          
+                                                                                                                                     
+  TOTAL                                                                               4,200.06 DR   840-USD                          
+                                                                                                                                     
+1IP728010-AA                                           MASTERCARD WORLDWIDE                                       RUN DATE: 05/26/18 
+ ACCEPTANCE BRAND: MCC                                    CLEARING CYCLE 004 SUMMARY                              RUN TIME: 03.10.05 
+ BUSINESS SERVICE LEVEL: INTRAREGIONAL                        2018-05-26                                          PAGE NO:         4 
+ MEMBER ID: 00000016987                                                                                                              
+ CURRENCY CODE :  840 - USD                                                                                                          
+                                                                                                                                     
+                                                                                                    RECON.                           
+  CYCLE                FILE ID                       FILE ID                      NET RECON          CURR.                           
+ ACTIVITY           TO MASTERCARD                FROM MASTERCARD                CURRENCY AMOUNT      CODE                            
+ ________   ____________________________   ____________________________   _______________________   _______                          
+  CYCLE 01                                 001/180526/00000016987/01101                 137.70 DR   840-USD                          
+  CYCLE 02                                 001/180526/00000016987/02201                   6.18 DR   840-USD                          
+  CYCLE 03                                 001/180526/00000016987/03401                  27.03 DR   840-USD                          
+                                                                                                                                     
+  TOTAL                                                                                 170.91 DR   840-USD                          
+                                                                                                                                     
+1IP728010-AA                                           MASTERCARD WORLDWIDE                                       RUN DATE: 05/26/18 
+ ACCEPTANCE BRAND: MCC                                    CLEARING CYCLE 004 SUMMARY                              RUN TIME: 03.10.05 
+ BUSINESS SERVICE LEVEL: INTRACOUNTRY                         2018-05-26                                          PAGE NO:         5 
+ MEMBER ID: 00000016987                                                                                                              
+ CURRENCY CODE :  356 - INR                                                                                                          
+                                                                                                                                     
+                                                                                                    RECON.                           
+  CYCLE                FILE ID                       FILE ID                      NET RECON          CURR.                           
+ ACTIVITY           TO MASTERCARD                FROM MASTERCARD                CURRENCY AMOUNT      CODE                            
+ ________   ____________________________   ____________________________   _______________________   _______                          
+  CYCLE 01                                 001/180526/00000016987/01101           2,033,242.00 DR   356-INR                          
+  CYCLE 02                                 001/180526/00000016987/02201          16,545,557.04 DR   356-INR                          
+  CYCLE 03                                 001/180526/00000016987/03401           1,009,376.30 DR   356-INR                          
+  CYCLE 04                                 001/180526/00000016987/04401             381,503.31 DR   356-INR                          
+                                                                                                                                     
+  TOTAL                                                                          19,969,678.65 DR   356-INR                          
+                                                                                                                                     
+1IP728010-AA                                           MASTERCARD WORLDWIDE                                       RUN DATE: 05/26/18 
+                                                           CLEARING DAY TOTAL                                     RUN TIME: 03.10.05 
+ MEMBER ID: 00000016987                                       2018-05-26                                          PAGE NO:         6 
+                                                                                                                                     
+ CLEARING DAY TOTAL AS OF CLEARING CYCLE  4                                                                                          
+                                                                                                                                     
+              RECONCILIATION          NET RECONCILIATION                                                                             
+              CURRENCY  CODE           CURRENCY AMOUNT                                                                               
+              --------------          ------------------                                                                             
+                356-INR                 19,969,678.65 DR                                                                             
+                840-USD                      4,370.97 DR                                                                             
+                                                        ***END OF REPORT***                                                          
+
