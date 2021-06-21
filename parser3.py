@@ -699,9 +699,9 @@ def parse_doc(filename):
 	search="MASTERCARD WORLDWIDE"
 
 	result_dict = {}
-	blocks = re.split(r"\b" + search + r"\b", lines)				
+	blocks = re.split(r"\b" + search + r"\b", lines)	#the whole file is now split into blocks, where the seperator is the keyword 'MASTERCARD WORLDWIDE'			
 	#string			blocks[2] has the one block
-	block = blocks[1]
+	block = blocks[1]   #each block corresponds to one table and its meta data like mcc etc , so if you want to run this for the whole file , put a for loop with block[i] and iteratively pass the block[i] to the below code routine. here i have implemented it only for one block
 
 	print("block :::::::", block)
 	table_type, noreport_yes = tabletype(block)
